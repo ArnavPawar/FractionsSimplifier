@@ -1,8 +1,8 @@
 /* *
- * Fraction lab with reduce
+ * FractionSimplifier with reduce
  * 
  * Arnav Pawar
- * due 10/18/18
+ * 10/18/18
  */
 public class Fractions
 {
