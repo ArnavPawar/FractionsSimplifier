@@ -1,8 +1,8 @@
-/* *
- * Fract743ion lab with reduce
+/* 
+ * Fraction with reduce
  * 
  * Arnav Pawar
- * due 10/18/18
+ * 10/18/18
  */
 public class Client
 {
