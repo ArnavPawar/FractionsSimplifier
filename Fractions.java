@@ -1,8 +1,8 @@
 /* *
- * FractionSimplifier with reduce
+ * Fraction lab with reduce
  * 
  * Arnav Pawar
- * 10/18/18
+ * due 10/18/18
  */
 public class Fractions
 {
@@ -124,11 +124,11 @@ public class Fractions
         }
         else if(den==0)
         {
-            return"fraction is undifined";
+            return"fraction is undefined";
         }
         else if(den==1)
         {
-            return num+"";//Has to have quotes because it has to reurn a string
+            return num+"";//Has to have quotes because it has to return a string
         }
         else
         {
@@ -152,4 +152,6 @@ public class Fractions
     }
 }        
    
+
+
 
